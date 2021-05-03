@@ -1,0 +1,39 @@
+
+@media(max-width:768px){
+						.header{
+								padding:30px;
+								height:750px;
+							   }
+						.header img{
+									width:90%;
+									height:200px;
+									margin:20px 0 0 20px;
+								   }
+						.header .btn{
+									 font-size:10px;
+									 margin-left:20px;
+									}
+						.header h1{
+									 font-size:20px;
+									 
+									}
+						.header p{
+									 font-size:15px;
+								  }
+						.services{
+									padding:30px;
+								 }
+						.pricing{
+									padding:30px;
+								}
+						.package{
+								padding:30px;	
+								}
+					   }
+			/* FOOTER */
+.footer{
+		padding:30px;
+		color:#cccccc;
+		background-color:#222222;
+	   }
+				   
